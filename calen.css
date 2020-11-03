@@ -1,0 +1,40 @@
+.ttl{
+  background-image:url("https://lh3.googleusercontent.com/proxy/i5-rl31UFxVH7T9DqW1Y-jAamsM16c8oXwsUs50IgC_bfF0FNao7vIvVF9BVpkvJ6A52oQgl--8IHSuiwbkfqIfOcr_tVkLVspEHpqevlZVJ1ewYUSIfwtdfQkMw8lmmoSHagi3lCmj3");
+  width:100%;
+background-repeat:no-repeat;
+background-size:cover;
+  }
+.start{
+  padding-top:50px;
+  text-align:center;
+}
+.options{
+  background-image:url("https://thumbs.dreamstime.com/b/abstract-sea-background-sandy-summer-beach-bokeh-lights-light-blue-sky-beautiful-texture-space-131428079.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  text-align:center;
+  margin-top:20%;
+
+    
+}
+.optbtn{
+  width : 200px;
+  padding : 5px;
+  cursor: pointer;
+
+}
+.roman{
+background-repeat:no-repeat;
+background-size:cover;    
+background-image:url("https://thumbs.dreamstime.com/b/abstract-sea-background-sandy-summer-beach-bokeh-lights-light-blue-sky-beautiful-texture-space-131428079.jpg");
+}
+.img{
+margin-bottom:50px;
+height:250px;
+ }
+.calen{
+
+background-repeat:no-repeat;
+background-size:cover;
+   background-image:url("https://thumbs.dreamstime.com/b/abstract-sea-background-sandy-summer-beach-bokeh-lights-light-blue-sky-beautiful-texture-space-131428079.jpg");
+}
